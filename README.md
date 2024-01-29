@@ -12,4 +12,4 @@
 
 <div><strong>Ouvrez le répertoire back depuis le terminal, puis :</strong> npm install</div>
 
-<div><strong>Pour lancer le server :</strong> node server ou npm start</div>
+<div><strong>Pour lancer le server :</strong> npm start</div>
