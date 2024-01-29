@@ -1,16 +1,15 @@
-Technologies :
-HTML
-CSS
-JS
+<div><strong>Technologies :</strong></div>
+<ul>
+  <li>HTML ;</li>
+  <li>CSS ;</li>
+  <li>JS.</li>
+</ul>
 
-Tester le projet :
-git clone https://github.com/Fontitusse/Projet_5_Kanap.git
+<div><strong>Tester le projet :</strong> git clone https://github.com/Fontitusse/Projet_5_Kanap.git</div>
 
-Node et npm doivent être installés localement sur votre machine.
-Installez toutes les dépendances avec npm.
+<div>Node et npm doivent être installés localement sur votre machine.</div>
+<div>Installez toutes les dépendances avec npm.</div>
 
-Ouvrez le répertoire back depuis le terminal, puis :
-npm install
+<div><strong>Ouvrez le répertoire back depuis le terminal, puis :</strong> npm install</div>
 
-Pour lancer le server :
-node server ou npm start
+<div><strong>Pour lancer le server :</strong> node server ou npm start</div>
