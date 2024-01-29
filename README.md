@@ -4,7 +4,7 @@ CSS
 JS
 
 Tester le projet :
-gh repo clone Fontitusse/Projet_5_Kanap
+git clone https://github.com/Fontitusse/Projet_5_Kanap.git
 
 Node et npm doivent être installés localement sur votre machine.
 Installez toutes les dépendances avec npm.
